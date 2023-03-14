@@ -1,6 +1,6 @@
 C #!/bin/bash
 # Inshackle 
-# FOLLOW ME ON INSTAGRAM @andruckz
+# FOLLOW ME ON INSTAGRAM @zzerro_mind   
 # SUBSCRIBE adx ALSO
 
 echo ""
